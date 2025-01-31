@@ -1,0 +1,41 @@
+[
+{
+  "disclaimer": "window3 added for the 2024-11-12 update of the examples."
+},
+{
+   "def": "def",
+   "name": "Window_002",
+   "inherits": [
+    "</N2c2d549ff9fe4e228590562fda81ajhl>"]
+},
+{
+ "def": "class",
+ "type": "UsdGeom:Xform",
+ "name": "N2c2d549ff9fe4e228590562fda81ajhl",
+ "comment":"instance of Window_002",
+ "inherits": [
+  "</N25503984660543a18597eae657ff5bea>"]
+},
+{
+ "def": "over",
+ "name": "N2c2d549ff9fe4e228590562fda81ajhl",
+ "attributes": {
+  "customdata": {
+   "originalStepInstance": "This is my third  IfcWindow class added for  the example."
+  }
+ }
+},
+{
+ "def": "over",
+ "name": "N2c2d549ff9fe4e228590562fda81ajhl",
+ "attributes": {
+  "xformOp": {
+   "transform": [
+    [1,0,0,0],
+    [0,1,0,0],
+    [0,0,1,0],
+    [8.125538349,0,1,1]]
+  }
+ }
+}
+]
